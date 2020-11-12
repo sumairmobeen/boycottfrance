@@ -1,0 +1,73 @@
+body { margin: 0;
+    
+   background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+
+}
+
+
+
+.navbar
+{
+    text-align: center;
+padding: 10px;
+}
+
+.navbar a {
+    text-decoration: none;
+color: rgb(1, 252, 14);
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 5px;
+transition: 0.5s;
+text-align: center;
+}
+
+.navbar
+{
+    box-sizing: border-box;
+    background-color: rgba(0, 4, 255, 0.562);
+    height: 50px;
+    
+    
+}
+
+
+.navbar a:hover
+{
+    background: #ff0202;
+    border: 2px solid rgb(252, 11, 3);
+    border-radius: 10px;    
+}
+
+.ban img{
+
+    width: 500px;
+
+    
+}
+
+
+.pic{
+    margin-top: 10px;
+    padding: 10PX;
+    
+}
+
+figcaption{
+    color: aqua;
+    text-align: center;
+}
+
+
+    
+.fra{
+    float: left;
+    width: 14%;
+    padding: 10px;
+}
